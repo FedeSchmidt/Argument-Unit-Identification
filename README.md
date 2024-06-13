@@ -1,6 +1,6 @@
 # Identifying Arguments Within a Text: Categorizing Errors and Their Impact in Arguments’ Relation Prediction.
 
 ## Overview
-This repository contains the code associated with the paper titled "Identifying Arguments Within a Text: Categorizing Errors and Their Impact in Arguments’ Relation Prediction".
+This repository contains code for the paper "Identifying Arguments Within a Text: Categorizing Errors and Their Impact in Arguments’ Relation Prediction".
 
-The code in this repository is developed using Google Colab and Kaggle notebooks. 
+The code in this repository was developed using Google Colab and Kaggle notebooks. 
